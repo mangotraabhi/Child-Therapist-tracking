@@ -3,6 +3,8 @@
 
 This project implements a system for detecting and tracking therapists and children in videos using a fine-tuned YOLOv8n model and DeepSORT for multi-object tracking. The model was trained using the notebook available at [Adult-child-detection-yolov8n.ipynb](https://github.com/mangotraabhi/Projects/blob/main/Adult-child-detection-yolov8n.ipynb).
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MoWYwtlOaZk/0.jpg)](https://www.youtube.com/watch?v=MoWYwtlOaZk)
+
 ## Table of Contents
 
 1. [Features](#features)
